@@ -196,7 +196,9 @@ header nav .fa-bars {
   border-radius: 50%;
   cursor: pointer;
 }
-
+.buy-coffe .arrow-span .fa-solid {
+  margin-bottom: 36px;
+}
 .buy-coffe .all-box {
   display: grid;
   gap: 30px;
