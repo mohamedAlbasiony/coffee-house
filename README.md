@@ -28,7 +28,7 @@ A modern, responsive, and interactive landing page for a coffee shop built using
 
 ---
 ## 🚀 Live Demo
-(https://mohamedalbasiony.github.io/Food-landing-page/)
+(https://mohamedalbasiony.github.io/Coffee-house/)
 ---
 ## 📂 Project Structure
 
